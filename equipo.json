@@ -1,0 +1,31 @@
+[
+    {
+      "id": 1,
+      "nombre": "Los Padrinos Mágicos",
+      "categoria": "Comedia",
+      "descripcion": "Contiene mágia",
+      "fecha": "2024-11-19T06:00:00.000Z"
+    },
+    {
+      "id": 2,
+      "nombre": "La Familia del Barrio",
+      "categoria": "Adultos",
+      "descripcion": "Caricatura mexicana no recomendada para niños",
+      "fecha": "2024-11-14T06:00:00.000Z"
+    },
+    {
+      "id": 3,
+      "nombre": "Las Pistas de Blue",
+      "categoria": "Infantil",
+      "descripcion": "Origen Español",
+      "fecha": "2024-11-18T06:00:00.000Z"
+    },
+    {
+        "id": 4,
+        "nombre": "Recreo",
+        "categoria": "Juvenil",
+        "descripcion": "Grupo de amigos en la escuela",
+        "fecha": "2024-11-18T06:00:00.000Z"
+      }
+  ]
+  
